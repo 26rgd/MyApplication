@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.navigation_notifications:
                     mTextMessage.setText(R.string.title_notifications);
                     System.out.println("sss");
+                    System.out.println("sss");
                     return true;
             }
             return false;
